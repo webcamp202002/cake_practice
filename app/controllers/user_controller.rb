@@ -1,4 +1,4 @@
 class UserController < ApplicationController
-  def show
+  def show test
   end
 end
